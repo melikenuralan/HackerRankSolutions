@@ -1,0 +1,22 @@
+# Visual Studio klasörleri
+.vs/
+*.user
+*.suo
+
+# Build çýktýlarý
+bin/
+obj/
+
+# .NET artefaktlarý
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Paketler
+*.nupkg
+packages/
+
+# Diðer
+*.DS_Store
