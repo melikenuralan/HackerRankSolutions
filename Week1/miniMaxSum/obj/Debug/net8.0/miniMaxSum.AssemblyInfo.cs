@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PlusMinus")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("miniMaxSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07adf0de5ce3e8ca0c8da75a75ddf1d7726df54")]
-[assembly: System.Reflection.AssemblyProductAttribute("PlusMinus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PlusMinus")]
+[assembly: System.Reflection.AssemblyProductAttribute("miniMaxSum")]
+[assembly: System.Reflection.AssemblyTitleAttribute("miniMaxSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaish\\source\\repos\\HackerRankAlgorithms\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{268C0230-4E26-4CAE-ADD8-DC0DB4D05618}|Week1\\PlusMinus\\PlusMinus.csproj|c:\\users\\kaish\\source\\repos\\hackerrankalgorithms\\week1\\plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268C0230-4E26-4CAE-ADD8-DC0DB4D05618}|Week1\\PlusMinus\\PlusMinus.csproj|solutionrelative:week1\\plusminus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaish\\source\\repos\\HackerRankAlgorithms\\Week1\\PlusMinus\\Program.cs",
-              "RelativeDocumentMoniker": "Week1\\PlusMinus\\Program.cs",
-              "ToolTip": "C:\\Users\\kaish\\source\\repos\\HackerRankAlgorithms\\Week1\\PlusMinus\\Program.cs",
-              "RelativeToolTip": "Week1\\PlusMinus\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:43:28.378Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
